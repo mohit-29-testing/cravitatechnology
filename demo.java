@@ -5,5 +5,9 @@ int a,b,result;
 result=a+b;
 system.out.println("addition is: " +result);
 }
+void substraction()
+int a,b,result;
+result=a-b;
+system.out.println("substraction is: "-result);
 }
 
